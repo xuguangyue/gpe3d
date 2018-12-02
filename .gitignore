@@ -1,0 +1,7 @@
+*.dat
+*.txt
+*.png
+*.o
+*.out
+*.nb
+.DS_Store
